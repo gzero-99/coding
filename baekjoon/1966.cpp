@@ -1,4 +1,4 @@
-// #1966 baekjoon printer queue 
+// #1966 baekjoon printer queue ÀåÁö ¢¾
 #include <iostream>
 #include <queue>
 #include <functional>
