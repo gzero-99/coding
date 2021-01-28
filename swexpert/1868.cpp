@@ -1,5 +1,5 @@
 //[sw] 장지영 #1868 파핑파핑 지뢰찾기 c++ ♥
-/*
+
 #include <iostream>
 #include <string>
 #define MAX 301
@@ -92,7 +92,7 @@ int main() {
 
 	return 0;
 }
-*/
+
 /*
 #include <iostream>
 #include <string>
