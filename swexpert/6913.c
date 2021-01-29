@@ -1,3 +1,4 @@
+//[sw] #6913 #6958 동철이의 프로그래밍 대회 D4 
 #include <stdio.h>
 int main() {
 	int TC, N, M;
