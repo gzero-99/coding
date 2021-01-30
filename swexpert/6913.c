@@ -1,3 +1,5 @@
+//장지영 [sw] d4 동철이의 프로그래밍 대회 ♥
+/*
 #include <stdio.h>
 int main() {
 	int TC, N, M;
@@ -19,3 +21,4 @@ int main() {
 	}
 	return 0;
 }
+*/
