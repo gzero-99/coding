@@ -1,4 +1,5 @@
 //Baekjoon g0 #3806 S to T ¢¾
+
 #include <iostream>
 #include <string>
 #define MAX 101
